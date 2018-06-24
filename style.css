@@ -21,7 +21,7 @@ body {
     margin: 0;
     position: relative;
     line-height: 1.351;
-
+    background-color: #fff;
 }
 
 a {
@@ -75,7 +75,7 @@ a:hover {
 
 }
 
-#nav {
+nav {
     padding: 100px 50px;
     position: fixed;
 }
@@ -94,12 +94,11 @@ li {
 }
 
 #mainPhoto {
-    /* height: 100vh; */
+    height: 100vh;
     padding: 0;
     margin: 0;
     position: fixed;
     top: 0px;
-    width: 45%;
     z-index: -1;
     
 }
@@ -122,7 +121,7 @@ footer {
             font-size: 40px;
         }
 
-        #nav {
+        nav {
             padding-left: 80px;
             padding-top: 170px;
         }
@@ -131,7 +130,8 @@ footer {
             padding-bottom: 20px;
             
         }
-    }
+}
+
  
 /* 
 #borders {
