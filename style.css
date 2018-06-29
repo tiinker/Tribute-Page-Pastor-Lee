@@ -67,7 +67,7 @@ header {
 
 header:before {
     content: '';
-    background-image: url("/images/Banner.jpg");
+    background-image: url("../images/Banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 30% 40%;
