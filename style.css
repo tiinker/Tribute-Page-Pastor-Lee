@@ -214,7 +214,7 @@ blockquote:before {
 .toTop a {
     background-color: var(--orange);
     padding: 10px;    
-    opacity: .9;
+     opacity: .92;
     border-radius: 2px;
 }
 
