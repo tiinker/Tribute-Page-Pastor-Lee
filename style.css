@@ -157,6 +157,11 @@ li {
     width: 38%;
     margin: 10px 20px 6px 0px;
 }
+
+#storyPhoto{
+    float: right;
+}
+
 .articleImages {
     display: flex;
     flex-direction: row;
